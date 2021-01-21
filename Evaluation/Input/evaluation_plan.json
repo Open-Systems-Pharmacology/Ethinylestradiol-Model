@@ -1,0 +1,434 @@
+{
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Ethinylestradiol",
+            "Path": "../Ethinylestradiol-Model.json",
+            "BuildingBlocks": [],
+            "SimulationParameters": []
+        }
+    ],
+    "ObservedDataSets": [],
+    "Plots": {
+        "AxesSettings": {
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Concentration (molar)",
+                    "Unit": "µmol/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (molar)",
+                    "Unit": "µmol/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "ComparisonTimeProfile": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (molar)",
+                    "Unit": "µmol/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Type": "X",
+                    "Dimension": "Age",
+                    "Unit": "year(s)",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 9,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AllPlots": [
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.03 mg iv",
+                "SectionId": 331
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.05 mg iv",
+                "SectionId": 331
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.03 mg po",
+                "SectionId": 331
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.03 mg po 28d",
+                "SectionId": 331
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.05 mg po",
+                "SectionId": 331
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.12 mg po",
+                "SectionId": 331
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.06 mg iv",
+                "SectionId": 332
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.03 mg po 28d pred",
+                "SectionId": 332
+            },
+            {
+                "Project": "Ethinylestradiol",
+                "Simulation": "Ethinylestradiol 0.05 mg po 28d",
+                "SectionId": 332
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Ethinylestradiol concentration in plasma",
+                "SectionId": 32,
+                "Artifacts": [
+                    "Plot",
+                    "GMFE",
+                    "Measure"
+                ],
+                "PlotType": "predictedVsObserved|residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "iv administration (model building)",
+                        "Symbol": "Cross",
+                        "OutputMappings": [
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg iv",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Back1981.0.03.iv.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg iv",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Orme1991.0.03.iv.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.05 mg iv",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Back1979.0.05.iv.Mean",
+                                "Color": "#FF8000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "iv administration (model validation)",
+                        "Symbol": "Cross",
+                        "OutputMappings": [
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.06 mg iv",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Kuhnz1996-shift.0.06.iv.Mean",
+                                "Color": "#00ffbf"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Oral administration (model building)",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Back1981.0.03.po.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Orme1991.0.03.po.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_solution",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_tablet",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Zhang2017.0.03.po.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Timmer2000.0.03.po.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po 28d",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Kothare1012.0.03.po.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.05 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Back1979.0.05.po.Mean",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.12 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_solution",
+                                "Color": "#FF8000"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.12 mg po",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_tablet",
+                                "Color": "#FF8000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Oral administration (model validation)",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po 28d pred",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Sidhu2006.0.03.po.Mean_SS",
+                                "Color": "#00ffbf"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po 28d pred",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Stockis2014.0.03.po.Mean_SS",
+                                "Color": "#00ffbf"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.03 mg po 28d pred",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Martin2016.0.03.po.Mean_SS",
+                                "Color": "#00ffbf"
+                            },
+                            {
+                                "Project": "Ethinylestradiol",
+                                "Simulation": "Ethinylestradiol 0.05 mg po 28d",
+                                "Output": "Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ethinylestradiol.Back1987.0.05.po.Mean",
+                                "Color": "#00ffbf"
+                            }
+                        ]
+                    }
+                ]
+            }            
+        ],
+        "ComparisonTimeProfilePlots": [],
+        "DDIRatioPlots": [],
+        "PKRatioPlots": []
+    },
+    "Inputs": [
+        {
+            "Project": "Ethinylestradiol",
+            "Name": "Ethinylestradiol",
+            "Type": "Compound",
+            "SectionId": 31
+        },
+        {
+            "Project": "Ethinylestradiol",
+            "Name": "Ethinylestradiol tablet",
+            "Type": "Formulation",
+            "SectionId": 31
+        }
+    ],
+    "Sections": [
+        {
+            "Id": 1,
+            "Title": "1 Introduction",
+            "Content": "Content/Section1_Introduction.md"
+        },
+        {
+            "Id": 2,
+            "Title": "2 Methods",
+            "Content": "Content/Section2_Methods.md",
+            "Sections": [
+                {
+                    "Id": 21,
+                    "Title": "2.1 Modeling Strategy",
+                    "Content": "Content/Section2.1_Modeling_Strategy.md"
+                },
+                {
+                    "Id": 22,
+                    "Title": "2.2 Data",
+                    "Content": "Content/Section2.2_Data.md"
+                },
+                {
+                    "Id": 23,
+                    "Title": "2.3 Model Parameters and Assumptions",
+                    "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Title": "3 Results and Discussion",
+            "Content": "Content/Section3_Results_and_Discussion.md",
+            "Sections": [
+                {
+                    "Id": 31,
+                    "Title": "3.1 Final input parameters",
+                    "Content": "Content/Input_table.md"
+                },
+                {
+                    "Id": 32,
+                    "Title": "3.2 Diagnostics Plots",
+                    "Content": "Content/GOF_diagnostics.md"
+                },
+                {
+                    "Id": 33,
+                    "Title": "3.3 Concentration-Time Profiles",
+                    "Content": "Content/Concentration_time_profiles.md",
+                    "Sections": [
+                        {
+                            "Id": 331,
+                            "Title": "3.3.1 Model Building",
+                            "Content": "Content/Concentration_time_profiles_building.md"
+                        },
+                        {
+                            "Id": 332,
+                            "Title": "3.3.2 Model Verification",
+                            "Content": "Content/Concentration_time_profiles_verification.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Title": "4 Conclusion",
+            "Content": "Content/Section4_Conclusion.md"
+        },
+        {
+            "Id": 5,
+            "Title": "5 References",
+            "Content": "Content/References.md"
+        },
+        {
+            "Id": 6,
+            "Title": "6 Glossary",
+            "Content": "Content/glossary.md"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ]
+}

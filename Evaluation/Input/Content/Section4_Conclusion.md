@@ -1,0 +1,3 @@
+The developed PBPK model of ethinylestradiol is able to predict the time-profiles following single and multiple dosing of ethinylestradiol accurately.
+
+The implemented TDI mechanism for ethinylestradiol was not evident in literature ([Zanaflex prescribing information](#5-References), [Karjalainen 2008](#5-References)). The substantial and prolonged inhibition may result from CYP1A2 inhibition by EE-metabolites having a different half-life from the parent. [Chang 2009](#5-References) for example found that the EE-2hydroxy and EE-2methoxy IC50s toward rCYP1A1 and rCYP1A2 are comparable to that of the parent. However, not having the possibility to model EE-metabolites contribution, a time-dependent inhibition function on CYP1A2 was used instead to account for this effect.
