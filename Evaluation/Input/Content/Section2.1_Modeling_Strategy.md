@@ -8,8 +8,8 @@ The following steps were undertaken in model development:
 
 3. Detail metabolic contribution of different CYPs and UGTs to total hepatic clearance.
 
-Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#2.2-data).
+Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#22-data).
 
-Details about the structural model and its parameters can be found in [Section 2.3](#2.3-model-parameters-and-assumptions).
+Details about the structural model and its parameters can be found in [Section 2.3](#23-model-parameters-and-assumptions).
 
 A standard female subject was created based on the European (ICRP,2002) PK-Sim database (age = 30 y, weight = 60 kg, height = 163 cm, BMI = 22,58 kg/m2) and used for simulations, until stated otherwise. Expression of the enzymes CYP3A4, CYP2C9, CYP1A2, CYP2C8, and UGT1A1 from RT PCR database were added.

@@ -4,7 +4,7 @@ Intestinal permeability was fitted to po data. Formulation of ethinylestradiol t
 
 ### 2.3.2 Distribution
 
-Physico-chemical parameters were set to the reported values (see [Section 2.2.1](#2.2.1-in-vitro-and-physico-chemical-data)). It was assumed that the major binding partner in plasma is albumin. The value of lipophilicity was estimated by fitting the model to iv and po data.
+Physico-chemical parameters were set to the reported values (see [Section 2.2.1](#221-in-vitro-and-physico-chemical-data)). It was assumed that the major binding partner in plasma is albumin. The value of lipophilicity was estimated by fitting the model to iv and po data.
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods available in PK-Sim, observed clinical data were best described by choosing the partition coefficient calculation by `Berezhkovskiy` and cellular permeability calculation by `PK-Sim Standard`.
 
