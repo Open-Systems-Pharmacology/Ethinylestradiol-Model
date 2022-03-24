@@ -16,7 +16,7 @@ A literature search was performed to collect available information on physico-ch
 | Km UGT1A1<sup>+</sup>           | µmol/l            | 19.22            | [Ezuruike 2018](#5-references)    | UGT1A1 saturation constant                     |
 | Vmax UGT1A1<sup>+</sup>         | pmol/min/mg prot. | 408.5            | [Ezuruike 2018](#5-references)    | Maximal metabolization rate by UGT1A1          |
 | Renal Elimination<sup>+</sup>   | l/h               | 2.079            | [Stanczyk 2013](#5-references)    | Renal clearance                                |
-| Clint HLM<sup>+</sup>           | µL/min/mg prot.   | 118.83           | [Ezuruike 2018](#5-references)    | Inttrinsic clearance in Human Liver Microsomes |
+| Clint HLM<sup>+</sup>           | µL/min/mg prot.   | 118.83           | [Ezuruike 2018](#5-references)    | Intrinsic clearance in Human Liver Microsomes |
 | Ki CYP1A2                       | µmol/l            | 10.6             | [Karjalainen 2008](#5-references) | CYP1A2 inhibition constant                     |
 
 **Table 1:**<a name="Table 1"></a> Physico-chemical and *in-vitro* metabolization properties of ethinylestradiol extracted from literature. *<sup>+</sup>: Value used in final model*

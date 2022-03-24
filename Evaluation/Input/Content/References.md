@@ -36,7 +36,7 @@
 
 **SmPC Namuscla ** SmPC Namuscla 167 mg hard capsules, 2019, website medicines.org.uk/emc/product/9838/smpc
 
-**Stanczyk 1983** Stanczyk FZ, Mroszczak EJ, Ling T, et al. Plasma levels and pharmacokinetics of norethindrone and ethinylestradiol administered in solution and as tablets to women. *Contraception*. 1983;28(3):241-251..
+**Stanczyk 1983** Stanczyk FZ, Mroszczak EJ, Ling T, et al. Plasma levels and pharmacokinetics of norethindrone and ethinylestradiol administered in solution and as tablets to women. *Contraception*. 1983;28(3):241-251.
 
 **Stanczyk 2013** Stanczyk FZ, Archer DF, Bhavnani BR. Ethinyl estradiol and 17beta-estradiol in combined oral contraceptives: pharmacokinetics, pharmacodynamics and risk assessment. *Contraception*. 2013;87(6):706-727.
 
