@@ -1,6 +1,6 @@
 ### 2.2.1 In vitro and physico-chemical data
 
-A literature search was performed to collect available information on physico-chemical properties of ethinylestradiol ([Table 1](#Table 1)).
+A literature search was performed to collect available information on physico-chemical properties of ethinylestradiol, see [Table 1](#Table 1).
 
 | **Parameter**                   | **Unit**          | **Value**        | Source                            | **Description**                                |
 | :------------------------------ | ----------------- | ---------------- | --------------------------------- | ---------------------------------------------- |
@@ -23,7 +23,7 @@ A literature search was performed to collect available information on physico-ch
 
 ### 2.2.2 Clinical data
 
-A literature search was performed to collect available clinical data on ethinylestradiol ([Table 2](#Table 2)).
+A literature search was performed to collect available clinical data on ethinylestradiol, see [Table 2](#Table 2).
 
 | **Source**           | Route | **Dose [mg]/**  **Schedule \*** | **Pop.**     | **Sex** | **N** | **Form.** |
 | -------------------- | ------------------------------- | ------------ | ------- | --------------------------------- | --------------------------------- | --------------------------------- |
