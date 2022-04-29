@@ -23,7 +23,7 @@ Renal plasma clearance is modeled with `Plasma clearance` set to 2.079 l/h repor
 
 ### 2.3.4 Enzyme Inhibition
 
-Simulations of co-administration of ethinylestradiol with tizanidine (see [CYP1A2 DDI Qualification report](link)) indicate that the reported competitive inhibition of CYP1A2 by ethinylestradiol ([Karjalainen 2008](#5-references)) is not sufficient to describe the increased concentrations of tizanidine after multiple days administration. Therefore, it was decided to fit a time-dependent inhibition (TDI) function to the CYP1A2 enzyme system. The parameters `Kinact` and `K_kinact_half` were estimated by fitting the model to concentration-time profiles of tizanidine ([Granfors 2005](#5-references)).
+Simulations of co-administration of ethinylestradiol with tizanidine (see [CYP1A2 DDI Qualification report](https://github.com/Open-Systems-Pharmacology/OSP-Qualification-Reports/releases)) indicate that the reported competitive inhibition of CYP1A2 by ethinylestradiol ([Karjalainen 2008](#5-references)) is not sufficient to describe the increased concentrations of tizanidine after multiple days administration. Therefore, it was decided to fit a time-dependent inhibition (TDI) function to the CYP1A2 enzyme system. The parameters `Kinact` and `K_kinact_half` were estimated by fitting the model to concentration-time profiles of tizanidine ([Granfors 2005](#5-references)).
 
 ### 2.3.5 Automated Parameter Identification
 

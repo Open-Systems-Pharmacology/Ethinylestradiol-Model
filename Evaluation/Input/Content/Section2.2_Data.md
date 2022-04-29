@@ -1,6 +1,6 @@
 ### 2.2.1 In vitro and physico-chemical data
 
-A literature search was performed to collect available information on physico-chemical properties of ethinylestradiol ([Table 1](#Table 1)).
+A literature search was performed to collect available information on physico-chemical properties of ethinylestradiol, see [Table 1](#table-1).
 
 | **Parameter**                   | **Unit**          | **Value**        | Source                            | **Description**                                |
 | :------------------------------ | ----------------- | ---------------- | --------------------------------- | ---------------------------------------------- |
@@ -16,14 +16,14 @@ A literature search was performed to collect available information on physico-ch
 | Km UGT1A1<sup>+</sup>           | µmol/l            | 19.22            | [Ezuruike 2018](#5-references)    | UGT1A1 saturation constant                     |
 | Vmax UGT1A1<sup>+</sup>         | pmol/min/mg prot. | 408.5            | [Ezuruike 2018](#5-references)    | Maximal metabolization rate by UGT1A1          |
 | Renal Elimination<sup>+</sup>   | l/h               | 2.079            | [Stanczyk 2013](#5-references)    | Renal clearance                                |
-| Clint HLM<sup>+</sup>           | µL/min/mg prot.   | 118.83           | [Ezuruike 2018](#5-references)    | Inttrinsic clearance in Human Liver Microsomes |
+| Clint HLM<sup>+</sup>           | µL/min/mg prot.   | 118.83           | [Ezuruike 2018](#5-references)    | Intrinsic clearance in Human Liver Microsomes |
 | Ki CYP1A2                       | µmol/l            | 10.6             | [Karjalainen 2008](#5-references) | CYP1A2 inhibition constant                     |
 
-**Table 1:**<a name="Table 1"></a> Physico-chemical and *in-vitro* metabolization properties of ethinylestradiol extracted from literature. *<sup>+</sup>: Value used in final model*
+**Table 1:**<a name="table-1"></a> Physico-chemical and *in-vitro* metabolization properties of ethinylestradiol extracted from literature. *<sup>+</sup>: Value used in final model*
 
 ### 2.2.2 Clinical data
 
-A literature search was performed to collect available clinical data on ethinylestradiol ([Table 2](#Table 2)).
+A literature search was performed to collect available clinical data on ethinylestradiol, see [Table 2](#table-2).
 
 | **Source**           | Route | **Dose [mg]/**  **Schedule \*** | **Pop.**     | **Sex** | **N** | **Form.** |
 | -------------------- | ------------------------------- | ------------ | ------- | --------------------------------- | --------------------------------- | --------------------------------- |
@@ -44,4 +44,4 @@ A literature search was performed to collect available clinical data on ethinyle
 | [Kothare 2012](#5-references)<sup>+</sup>       | p.o.  | 0.03/0.03 q.d.                  | HV       | F       | 20    | tablet              |
 | [Timmer 2000](#5-references)<sup>+</sup>        | p.o.  | 0.03                            | HV       | F       | -     | tablet              |
 
-**Table 2:**<a name="Table 2"></a> Literature sources of clinical concentration data of ethinylestradiol used for model development and validation. *\*: single dose unless otherwise specified;<sup>+</sup>: Data used for final parameter identification*
+**Table 2:**<a name="table-2"></a> Literature sources of clinical concentration data of ethinylestradiol used for model development and validation. *\*: single dose unless otherwise specified;<sup>+</sup>: Data used for final parameter identification*

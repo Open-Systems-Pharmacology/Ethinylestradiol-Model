@@ -12,13 +12,13 @@
 
 **Ezuruike 2018** Ezuruike U, Humphries H, Dickins M, Neuhoff S, Gardner I, Rowland Yeo K. Risk–Benefit Assessment of Ethinylestradiol Using a Physiologically Based Pharmacokinetic Modeling Approach. *Clin Pharmacol Ther*. 2018;104(6):1229-1239
 
-**FDA. QUARTETTE ** FDA. QUARTETTE (levonorgestrel/ethinyl estradiol and ethinyl estradiol) tablets, for oral use. Website: accessdata.fda.gov/drugsatfda_docs/label/2013/204061s000lbl.pdf.2013.
+**FDA. QUARTETTE** FDA. QUARTETTE (levonorgestrel/ethinyl estradiol and ethinyl estradiol) tablets, for oral use. Website: https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/204061s000lbl.pdf
 
 **Goebelsmann 1986** Goebelsmann U, Hoffman D, Chiang S, Woutersz T. The relative bioavailability of levonorgestrel and ethinyl estradiol administered as a low-dose combination oral contraceptive. *Contraception*. 1986;34(4):341-351.
 
 **Granfors 2005** Granfors MT, Backman JT, Laitila J, Neuvonen PJ. Oral contraceptives containing ethinyl estradiol and gestodene markedly increase plasma concentrations and effects of tizanidine by inhibiting cytochrome P450 1A2. *Clin Pharmacol Ther*. 2005;78(4):400-411.
 
-**Karjalainen 2008** Karjalainen, M. (Thesis, 2008). Inhibition of CYP1A2-mediated drug metabolism in vitro and in humans: With special emphasis on rofecoxib and other NSAIDs. Website: helda.helsinki.fi/bitstream/handle/10138/23039/inhibiti.pdf?sequence=1&origin=publication_detail
+**Karjalainen 2008** Karjalainen, M. (Thesis, 2008). Inhibition of CYP1A2-mediated drug metabolism in vitro and in humans: With special emphasis on rofecoxib and other NSAIDs. Website: https://helda.helsinki.fi/bitstream/handle/10138/23039/inhibiti.pdf?sequence=1&origin=publication_detail
 
 **Kothare 2012** Kothare PA, Seger ME, Northrup J, Mace K, Mitchell MI, Linnebjerg H. Effect of exenatide on the pharmacokinetics of a combination oral contraceptive in healthy women: an open-label, randomised, crossover trial. *BMC Clin Pharmacol*. 2012;12:8. 
 
@@ -34,9 +34,9 @@
 
 **Sidhu 2006** Sidhu J, Job S, Singh S, Philipson R. The pharmacokinetic and pharmacodynamic consequences of the co-administration of lamotrigine and a combined oral contraceptive in healthy female subjects. *Br J Clin Pharmacol*. 2006;61(2):191-199.
 
-**SmPC Namuscla ** SmPC Namuscla 167 mg hard capsules, 2019, website medicines.org.uk/emc/product/9838/smpc
+**SmPC Namuscla** SmPC Namuscla 167 mg hard capsules, 2019, website https://www.medicines.org.uk/emc/product/9838/smpc
 
-**Stanczyk 1983** Stanczyk FZ, Mroszczak EJ, Ling T, et al. Plasma levels and pharmacokinetics of norethindrone and ethinylestradiol administered in solution and as tablets to women. *Contraception*. 1983;28(3):241-251..
+**Stanczyk 1983** Stanczyk FZ, Mroszczak EJ, Ling T, et al. Plasma levels and pharmacokinetics of norethindrone and ethinylestradiol administered in solution and as tablets to women. *Contraception*. 1983;28(3):241-251.
 
 **Stanczyk 2013** Stanczyk FZ, Archer DF, Bhavnani BR. Ethinyl estradiol and 17beta-estradiol in combined oral contraceptives: pharmacokinetics, pharmacodynamics and risk assessment. *Contraception*. 2013;87(6):706-727.
 
@@ -52,6 +52,6 @@
 
 **Willmann 2007** Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. *J Pharmacokinet Pharmacodyn* 2007, 34(3): 401-431.
 
-**Zanaflex prescribing information**  Zanaflex prescribing information. Website: accessdata.fda.gov/drugsatfda_docs/label/2006/020397s021,021447s002lbl.pdf, 2006, Acorda Therapeutics Inc
+**Zanaflex prescribing information**  Zanaflex prescribing information. Website: https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020397s021,021447s002lbl.pdf , 2006, Acorda Therapeutics Inc
 
 **Zhang 2017** Zhang C, Li H, Xiong X, et al. An open-label, two-period comparative study on pharmacokinetics and safety of a combined ethinylestradiol/gestodene transdermal contraceptive patch. *Drug Des Devel Ther*. 2017;11:725-731.
