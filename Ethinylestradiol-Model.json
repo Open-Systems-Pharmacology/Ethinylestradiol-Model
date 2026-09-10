@@ -1,5 +1,6 @@
 {
-  "Version": 80,
+  "Name": "Ethinylestradiol-Model",
+  "Version": 81,
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -10,65 +11,80 @@
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP3A4|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP3A4|t1/2 (liver)",
           "Value": 37.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0041682898325
+          "Value": 0.0041682898325,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.00078691079081
+          "Value": 0.00078691079081,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0053603428126
+          "Value": 0.0053603428126,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.00042695753798
+          "Value": 0.00042695753798,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -85,65 +101,80 @@
         {
           "Path": "CYP2C9|Reference concentration",
           "Value": 3.84,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP2C9|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP2C9|t1/2 (liver)",
           "Value": 104.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Brain|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.00039687350455
+          "Value": 0.00039687350455,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Gonads|Intracellular|CYP2C9|Relative expression",
-          "Value": 4.5940341362E-05
+          "Value": 4.5940341362E-05,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.0018822778753
+          "Value": 0.0018822778753,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C9|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|CYP2C9|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Lung|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.0002131121391
+          "Value": 0.0002131121391,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.1199553358
+          "Value": 0.1199553358,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.1199553358
+          "Value": 0.1199553358,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.1199553358
+          "Value": 0.1199553358,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.1199553358
+          "Value": 0.1199553358,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.1199553358
+          "Value": 0.1199553358,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C9|Relative expression",
-          "Value": 0.1199553358
+          "Value": 0.1199553358,
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -160,37 +191,45 @@
         {
           "Path": "CYP1A2|Reference concentration",
           "Value": 1.8,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP1A2|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP1A2|t1/2 (liver)",
           "Value": 39.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Gonads|Intracellular|CYP1A2|Relative expression",
-          "Value": 0.00029559748428
+          "Value": 0.00029559748428,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|CYP1A2|Relative expression",
-          "Value": 4.4025157233E-06
+          "Value": 4.4025157233E-06,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|CYP1A2|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|CYP1A2|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Lung|Intracellular|CYP1A2|Relative expression",
-          "Value": 2.4947589099E-05
+          "Value": 2.4947589099E-05,
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -207,65 +246,80 @@
         {
           "Path": "CYP2C8|Reference concentration",
           "Value": 2.56,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP2C8|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP2C8|t1/2 (liver)",
           "Value": 23.000001425,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Brain|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.00041051218109
+          "Value": 0.00041051218109,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Gonads|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0138116248
+          "Value": 0.0138116248,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0012660656052
+          "Value": 0.0012660656052,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C8|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|CYP2C8|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Lung|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.00092269326683
+          "Value": 0.00092269326683,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0031843468252
+          "Value": 0.0031843468252,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0031843468252
+          "Value": 0.0031843468252,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0031843468252
+          "Value": 0.0031843468252,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0031843468252
+          "Value": 0.0031843468252,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0031843468252
+          "Value": 0.0031843468252,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C8|Relative expression",
-          "Value": 0.0031843468252
+          "Value": 0.0031843468252,
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -281,71 +335,88 @@
       "Parameters": [
         {
           "Path": "Organism|Gonads|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0013585313175
+          "Value": 0.0013585313175,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0788336933
+          "Value": 0.0788336933,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|UGT1A1|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|UGT1A1|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Lung|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.00027429805616
+          "Value": 0.00027429805616,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Stomach|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.016349892
+          "Value": 0.016349892,
+          "ValueOrigin": {}
         },
         {
           "Path": "UGT1A1|Reference concentration",
@@ -358,12 +429,14 @@
         {
           "Path": "UGT1A1|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "UGT1A1|t1/2 (liver)",
           "Value": 36.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -589,7 +662,8 @@
           "Parameters": [
             {
               "Name": "Fraction unbound (experiment)",
-              "Value": 0.03
+              "Value": 0.03,
+              "ValueOrigin": {}
             },
             {
               "Name": "Plasma clearance",
@@ -609,17 +683,20 @@
           "Parameters": [
             {
               "Name": "Fraction unbound (experiment)",
-              "Value": 0.03
+              "Value": 0.03,
+              "ValueOrigin": {}
             },
             {
               "Name": "Lipophilicity (experiment)",
               "Value": 3.4805414593,
-              "Unit": "Log Units"
+              "Unit": "Log Units",
+              "ValueOrigin": {}
             },
             {
               "Name": "Plasma clearance",
               "Value": 0.0,
-              "Unit": "ml/min/kg"
+              "Unit": "ml/min/kg",
+              "ValueOrigin": {}
             },
             {
               "Name": "Specific clearance",
@@ -696,11 +773,13 @@
         },
         {
           "Name": "Dissolution shape",
-          "Value": 0.92
+          "Value": 0.92,
+          "ValueOrigin": {}
         },
         {
           "Name": "Use as suspension",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         }
       ]
     }
@@ -714,12 +793,14 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.03,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -731,12 +812,14 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.05,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -754,12 +837,14 @@
                 {
                   "Name": "Start time",
                   "Value": 0.0,
-                  "Unit": "h"
+                  "Unit": "h",
+                  "ValueOrigin": {}
                 },
                 {
                   "Name": "InputDose",
                   "Value": 0.06,
-                  "Unit": "mg"
+                  "Unit": "mg",
+                  "ValueOrigin": {}
                 }
               ]
             }
@@ -768,16 +853,19 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "NumberOfRepetitions",
-              "Value": 1.0
+              "Value": 1.0,
+              "ValueOrigin": {}
             },
             {
               "Name": "TimeBetweenRepetitions",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -792,17 +880,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.03,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -814,17 +905,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.05,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -836,17 +930,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.05,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Name": "End time",
@@ -866,17 +963,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.12,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -888,17 +988,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.03,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Name": "End time",
@@ -926,17 +1029,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -945,17 +1051,20 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 24.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -964,17 +1073,20 @@
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1029,88 +1141,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.03 mg iv|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Back1981.0.03.iv.Mean",
-              "X": "Ethinylestradiol.Back1981.0.03.iv.Mean|Time",
-              "Y": "Ethinylestradiol.Back1981.0.03.iv.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Orme1991.0.03.iv.Mean",
-              "X": "Ethinylestradiol.Orme1991.0.03.iv.Mean|Time",
-              "Y": "Ethinylestradiol.Orme1991.0.03.iv.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.03 mg iv",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.03 mg iv",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.03 mg iv\n2020-07-22 13:15"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -1137,17 +1168,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1156,7 +1190,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1169,7 +1204,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1178,22 +1214,26 @@
         {
           "Path": "Events|PO 0.03mg|Ethinylestradiol tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1254,132 +1294,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.03 mg po|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Back1981.0.03.po.Mean",
-              "X": "Ethinylestradiol.Back1981.0.03.po.Mean|Time",
-              "Y": "Ethinylestradiol.Back1981.0.03.po.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Orme1991.0.03.po.Mean",
-              "X": "Ethinylestradiol.Orme1991.0.03.po.Mean|Time",
-              "Y": "Ethinylestradiol.Orme1991.0.03.po.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_solution",
-              "X": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_solution|Time",
-              "Y": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_solution|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 4,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_tablet",
-              "X": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_tablet|Time",
-              "Y": "Ethinylestradiol.Goebelsmann1986.0.03.po.Mean_tablet|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF00FF",
-                "LegendIndex": 5,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Zhang2017.0.03.po.Mean",
-              "X": "Ethinylestradiol.Zhang2017.0.03.po.Mean|Time",
-              "Y": "Ethinylestradiol.Zhang2017.0.03.po.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF8000",
-                "LegendIndex": 6,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Timmer2000.0.03.po.Mean",
-              "X": "Ethinylestradiol.Timmer2000.0.03.po.Mean|Time",
-              "Y": "Ethinylestradiol.Timmer2000.0.03.po.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#00C0C0",
-                "LegendIndex": 7,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.03 mg po",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.03 mg po",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.03 mg po\n2020-07-22 13:40"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -1401,17 +1316,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1420,17 +1338,20 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 24.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1439,17 +1360,20 @@
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1504,77 +1428,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.05 mg iv|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Back1979.0.05.iv.Mean",
-              "X": "Ethinylestradiol.Back1979.0.05.iv.Mean|Time",
-              "Y": "Ethinylestradiol.Back1979.0.05.iv.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.05 mg iv",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.05 mg iv",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.05 mg iv\n2020-07-22 13:16"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -1596,17 +1450,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1615,17 +1472,20 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 24.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1634,22 +1494,26 @@
         {
           "Path": "Events|PO 0.05mg|Ethinylestradiol tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1710,77 +1574,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.05 mg po|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Back1979.0.05.po.Mean",
-              "X": "Ethinylestradiol.Back1979.0.05.po.Mean|Time",
-              "Y": "Ethinylestradiol.Back1979.0.05.po.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.05 mg po",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.05 mg po",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.05 mg po\n2020-07-22 13:17"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -1802,17 +1596,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1821,7 +1618,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1834,7 +1632,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1843,157 +1642,188 @@
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.05mg - 28d|Ethinylestradiol tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2054,81 +1884,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "day(s)",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "Min": 27.0,
-              "Max": 28.00487,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "Min": 1E-05,
-              "Max": 0.0008394941,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.05 mg po 28d|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Back1987.0.05.po.Mean",
-              "X": "Ethinylestradiol.Back1987.0.05.po.Mean|Time",
-              "Y": "Ethinylestradiol.Back1987.0.05.po.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.05 mg po 28d",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.05 mg po 28d",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.05 mg po 28d\n2020-07-22 13:23"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -2150,17 +1906,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2169,17 +1928,20 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 24.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2188,17 +1950,20 @@
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2253,77 +2018,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.06 mg iv|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Kuhnz1996-shift.0.06.iv.Mean",
-              "X": "Ethinylestradiol.Kuhnz1996-shift.0.06.iv.Mean|Time",
-              "Y": "Ethinylestradiol.Kuhnz1996-shift.0.06.iv.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.06 mg iv",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.06 mg iv",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.06 mg iv\n2020-07-22 13:29"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -2346,17 +2041,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2365,17 +2063,20 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 24.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2384,22 +2085,26 @@
         {
           "Path": "Events|PO 0.12mg|Ethinylestradiol tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2460,88 +2165,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.12 mg po|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_solution",
-              "X": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_solution|Time",
-              "Y": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_solution|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_tablet",
-              "X": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_tablet|Time",
-              "Y": "Ethinylestradiol.Stanczyk1983.0.12.po.Mean_tablet|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.12 mg po",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.12 mg po",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.12 mg po\n2020-07-22 13:31"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -2565,17 +2189,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2584,7 +2211,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2597,7 +2225,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2606,157 +2235,188 @@
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2817,103 +2477,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "day(s)",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "Min": 18.0,
-              "Max": 21.0,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "Min": 1E-05,
-              "Max": 0.0004617694,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.03 mg po 28d pred|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Sidhu2006.0.03.po.Mean_SS",
-              "X": "Ethinylestradiol.Sidhu2006.0.03.po.Mean_SS|Time",
-              "Y": "Ethinylestradiol.Sidhu2006.0.03.po.Mean_SS|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 4,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Stockis2014.0.03.po.Mean_SS",
-              "X": "Ethinylestradiol.Stockis2014.0.03.po.Mean_SS|Time",
-              "Y": "Ethinylestradiol.Stockis2014.0.03.po.Mean_SS|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Martin2016.0.03.po.Mean_SS",
-              "X": "Ethinylestradiol.Martin2016.0.03.po.Mean_SS|Time",
-              "Y": "Ethinylestradiol.Martin2016.0.03.po.Mean_SS|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.03 mg po 28d pred",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.03 mg po 28d pred",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.03 mg po 28d\n2020-07-22 13:34"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -2935,17 +2499,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2954,7 +2521,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2967,7 +2535,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2976,157 +2545,188 @@
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|PO 0.03mg - 28d|Ethinylestradiol tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (intestine)",
           "Value": 1380.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Path": "Undefined Liver|t1/2 (liver)",
           "Value": 2160.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3187,79 +2787,7 @@
           }
         }
       ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "day(s)",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "Min": 1E-05,
-              "Max": 0.0004266324,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Ethinylestradiol simulated",
-              "X": "Time",
-              "Y": "Ethinylestradiol 0.03 mg po 28d|Organism|PeripheralVenousBlood|Ethinylestradiol|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Ethinylestradiol.Kothare1012.0.03.po.Mean",
-              "X": "Ethinylestradiol.Kothare1012.0.03.po.Mean|Time",
-              "Y": "Ethinylestradiol.Kothare1012.0.03.po.Mean|ObservedData|Peripheral Venous Blood|Plasma|Ethinylestradiol|CentralMeasure",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Ethinylestradiol 0.03 mg po 28d",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "Title": "Ethinylestradiol 0.03 mg po 28d",
-          "OriginText": "Ethinylestradiol\nEthinylestradiol 0.03 mg po 28d\n2020-07-22 13:38"
-        }
-      ],
+      "HasResults": false,
       "Interactions": [
         {
           "Name": "CYP1A2-Fit",
@@ -3349,14 +2877,14 @@
                 "MolWeight": 296.4
               },
               "Values": [
-                2.45664942E-05,
+                2.4566494E-05,
                 2.911308E-05,
-                1.96490437E-05,
-                1.64562989E-05,
+                1.9649044E-05,
+                1.6456299E-05,
                 9.943869E-06,
-                1.02204758E-05,
+                1.0220476E-05,
                 7.669821E-06,
-                2.11917086E-05,
+                2.1191709E-05,
                 4.141414E-06,
                 9.514126E-06
               ],
@@ -3378,11 +2906,11 @@
             8.196591E-05,
             7.025443E-05,
             4.147572E-05,
-            3.59929727E-05,
-            2.81145822E-05,
+            3.5992973E-05,
+            2.8114582E-05,
             3.897666E-05,
-            1.37549659E-05,
-            2.64784176E-05
+            1.3754966E-05,
+            2.6478418E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -3496,14 +3024,14 @@
                 8.223323E-05,
                 7.050895E-05,
                 5.834573E-05,
-                1.96284091E-05,
-                2.41470079E-05,
+                1.9628409E-05,
+                2.4147008E-05,
                 2.4470839E-05,
-                2.19860231E-05,
+                2.1986023E-05,
                 1.2634091E-05,
-                1.00914913E-05,
-                6.25414532E-06,
-                6.94234768E-06,
+                1.0091491E-05,
+                6.2541453E-06,
+                6.9423477E-06,
                 1.8418732E-05
               ],
               "Dimension": "Concentration (mass)",
@@ -3521,16 +3049,16 @@
           "Values": [
             0.0004089556,
             0.00028762588,
-            0.000261066831,
+            0.00026106683,
             0.00016251835,
             0.0001227226,
             8.833914E-05,
             9.426056E-05,
-            5.65457049E-05,
+            5.6545705E-05,
             5.263767E-05,
-            5.39127941E-05,
+            5.3912794E-05,
             3.940751E-05,
-            7.19845848E-05
+            7.1984585E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -3645,12 +3173,12 @@
               "Values": [
                 0.000104555584,
                 7.337473E-05,
-                6.15743338E-05,
-                3.64254374E-05,
-                1.64043922E-05,
-                3.00483425E-05,
-                5.41473237E-05,
-                2.60910656E-05,
+                6.1574334E-05,
+                3.6425437E-05,
+                1.6404392E-05,
+                3.0048343E-05,
+                5.4147324E-05,
+                2.6091066E-05,
                 "NaN",
                 1.1706753E-05
               ],
@@ -3667,16 +3195,16 @@
             "MolWeight": 296.4
           },
           "Values": [
-            0.000133326481,
-            0.000114998787,
-            0.000103411352,
+            0.00013332648,
+            0.00011499879,
+            0.00010341135,
             7.30974E-05,
             3.807881E-05,
             3.315712E-05,
             2.8212402E-05,
             2.148028E-05,
             3.9407787E-05,
-            2.48547822E-05
+            2.4854782E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -3694,15 +3222,15 @@
         },
         "Values": [
           0.817206,
-          1.81081975,
-          2.85818386,
-          3.83528852,
-          5.99413347,
-          7.89382458,
+          1.8108197,
+          2.8581839,
+          3.8352885,
+          5.9941335,
+          7.8938246,
           9.992777,
-          11.9316282,
-          13.7925425,
-          21.8516426
+          11.931628,
+          13.792542,
+          21.851643
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -3787,18 +3315,18 @@
                 "MolWeight": 296.4
               },
               "Values": [
-                9.90697445E-05,
+                9.9069744E-05,
                 7.573485E-05,
-                0.000151917047,
-                0.000155584392,
-                0.000108480519,
-                8.45627656E-05,
+                0.00015191705,
+                0.00015558439,
+                0.00010848052,
+                8.4562766E-05,
                 4.413249E-05,
-                5.47765667E-05,
-                4.08653432E-05,
+                5.4776567E-05,
+                4.0865343E-05,
                 1.700237E-05,
-                1.67681283E-05,
-                3.11147051E-05
+                1.6768128E-05,
+                3.1114705E-05
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
@@ -3814,12 +3342,12 @@
           },
           "Values": [
             0.000562409,
-            0.000430017884,
-            0.000388420769,
-            0.000372626469,
-            0.000211864884,
-            0.000169697829,
-            0.000135295471,
+            0.00043001788,
+            0.00038842077,
+            0.00037262647,
+            0.00021186488,
+            0.00016969783,
+            0.00013529547,
             0.000113002825,
             8.928469E-05,
             7.154966E-05,
@@ -3841,18 +3369,18 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.282773852,
+          0.28277385,
           0.5622757,
-          0.956189036,
-          1.55627334,
-          1.91179359,
-          2.94955945,
-          3.98694134,
+          0.95618904,
+          1.5562733,
+          1.9117936,
+          2.9495595,
+          3.9869413,
           5.933472,
-          7.92569065,
+          7.9256907,
           10.975256,
-          13.9088736,
-          22.0178833
+          13.908874,
+          22.017883
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -3937,16 +3465,16 @@
                 "MolWeight": 296.4
               },
               "Values": [
-                4.04195562E-05,
-                8.25315437E-05,
+                4.0419556E-05,
+                8.2531544E-05,
                 4.899284E-05,
-                3.13470955E-05,
-                2.69606371E-05,
+                3.1347096E-05,
+                2.6960637E-05,
                 1.2856065E-05,
                 2.3167293E-05,
-                1.90825558E-05,
+                1.9082556E-05,
                 2.256496E-05,
-                1.28782158E-05,
+                1.2878216E-05,
                 8.80361E-06
               ],
               "Dimension": "Concentration (mass)",
@@ -3964,15 +3492,15 @@
           "Values": [
             7.841309E-05,
             0.00015600209,
-            0.000199833215,
-            0.000186020348,
-            0.000180957009,
-            0.000116814888,
+            0.00019983322,
+            0.00018602035,
+            0.00018095701,
+            0.00011681489,
             6.378269E-05,
-            5.45238327E-05,
+            5.4523833E-05,
             4.277492E-05,
-            3.65579872E-05,
-            2.64890932E-05
+            3.6557987E-05,
+            2.6489093E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -3989,16 +3517,16 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          27.0242786,
-          27.0365639,
-          27.0540638,
-          27.0715084,
-          27.0922165,
-          27.1789474,
-          27.2556648,
-          27.3413162,
-          27.4589825,
-          27.5892525,
+          27.024279,
+          27.036564,
+          27.054064,
+          27.071508,
+          27.092216,
+          27.178947,
+          27.255665,
+          27.341316,
+          27.458982,
+          27.589252,
           28.00487
         ],
         "Dimension": "Time",
@@ -4082,43 +3610,43 @@
           },
           "Values": [
             0.0004483826,
-            0.000435914233,
-            0.000416555558,
-            0.000327661081,
-            0.000340986822,
+            0.00043591423,
+            0.00041655556,
+            0.00032766108,
+            0.00034098682,
             0.0003173292,
-            0.000251579622,
+            0.00025157962,
             0.0002524439,
-            0.000238814187,
+            0.00023881419,
             0.0002033012,
             0.00019938538,
             0.00018413,
             0.0001593197,
-            0.000171619307,
+            0.00017161931,
             0.0001436077,
             0.00013545838,
-            0.000113972157,
-            0.000107912463,
+            0.00011397216,
+            0.00010791246,
             9.788745E-05,
-            0.000100744139,
+            0.00010074414,
             6.978017E-05,
-            7.88726247E-05,
+            7.8872625E-05,
             6.566276E-05,
-            5.42814851E-05,
-            4.83395379E-05,
+            5.4281485E-05,
+            4.8339538E-05,
             4.909868E-05,
             3.624634E-05,
             3.325703E-05,
             4.054989E-05,
             2.332901E-05,
-            2.53154267E-05,
-            2.87615912E-05,
-            2.16162316E-05,
+            2.5315427E-05,
+            2.8761591E-05,
+            2.1616232E-05,
             2.4575962E-05,
             2.035625E-05,
-            1.47230476E-05,
-            1.93902124E-05,
-            1.06909183E-05,
+            1.4723048E-05,
+            1.9390212E-05,
+            1.0690918E-05,
             2.242025E-05
           ],
           "Dimension": "Concentration (mass)",
@@ -4136,45 +3664,45 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.250108272,
+          0.25010827,
           0.2695592,
           0.3874634,
           0.5177702,
-          0.525084555,
+          0.52508456,
           0.6286213,
           0.7537716,
           0.794245,
-          0.841442764,
+          0.84144276,
           1.0291158,
-          1.04305732,
-          1.13882613,
+          1.0430573,
+          1.1388261,
           1.488697,
-          1.51662767,
-          1.60399091,
+          1.5166277,
+          1.6039909,
           1.9891454,
-          1.99383175,
-          2.12359166,
+          1.9938318,
+          2.1235917,
           2.991912,
-          3.03046465,
-          3.13982534,
-          4.02025652,
-          4.04970264,
+          3.0304646,
+          3.1398253,
+          4.0202565,
+          4.0497026,
           4.1348815,
-          6.04594564,
-          6.05959463,
-          6.12857246,
+          6.0459456,
+          6.0595946,
+          6.1285725,
           8.012358,
           8.027431,
           8.093033,
-          11.0214529,
+          11.021453,
           11.058692,
           11.07492,
-          13.9930248,
-          13.9939556,
-          14.0456219,
-          23.9294567,
-          24.0200443,
-          24.0590229
+          13.993025,
+          13.993956,
+          14.045622,
+          23.929457,
+          24.020044,
+          24.059023
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -4256,36 +3784,36 @@
             "MolWeight": 296.4
           },
           "Values": [
-            5.44401337E-05,
-            8.35064639E-05,
+            5.4440134E-05,
+            8.3506464E-05,
             7.514393E-05,
-            0.000126342376,
-            0.000108708111,
+            0.00012634238,
+            0.00010870811,
             9.588548E-05,
-            0.000126219384,
-            0.000101749327,
-            0.000116905052,
-            0.000127390114,
-            9.45778156E-05,
+            0.00012621938,
+            0.00010174933,
+            0.00011690505,
+            0.00012739011,
+            9.4577816E-05,
             8.859437E-05,
             9.013279E-05,
             7.7352066E-05,
             5.730412E-05,
-            5.38732165E-05,
+            5.3873217E-05,
             6.249131E-05,
-            3.99066666E-05,
-            3.86926549E-05,
-            4.18003438E-05,
+            3.9906667E-05,
+            3.8692655E-05,
+            4.1800344E-05,
             3.013454E-05,
-            3.11670119E-05,
-            2.79605156E-05,
-            2.42067363E-05,
-            2.13134754E-05,
-            2.27353758E-05,
+            3.1167012E-05,
+            2.7960516E-05,
+            2.4206736E-05,
+            2.1313475E-05,
+            2.2735376E-05,
             1.25721235E-05,
-            2.05633423E-05,
-            1.28583351E-05,
-            1.65349011E-05,
+            2.0563342E-05,
+            1.2858335E-05,
+            1.6534901E-05,
             1.0888265E-05,
             9.782242E-06,
             9.685513E-06
@@ -4305,23 +3833,23 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.468007684,
-          0.493509769,
-          0.604162455,
-          1.00318158,
-          1.03569067,
+          0.46800768,
+          0.49350977,
+          0.60416245,
+          1.0031816,
+          1.0356907,
           1.115113,
-          1.53339207,
-          1.56357419,
-          1.56789351,
-          2.01755881,
-          2.06867528,
+          1.5333921,
+          1.5635742,
+          1.5678935,
+          2.0175588,
+          2.0686753,
           2.172211,
-          3.00673771,
-          3.07294488,
-          3.13266683,
-          3.99137044,
-          4.01884651,
+          3.0067377,
+          3.0729449,
+          3.1326668,
+          3.9913704,
+          4.0188465,
           4.095807,
           5.998492,
           6.05764,
@@ -4329,15 +3857,15 @@
           8.025836,
           8.066179,
           8.094375,
-          11.0204105,
+          11.020411,
           11.027873,
           11.1110115,
-          13.9940166,
+          13.994017,
           14.0407,
           14.04414,
           23.995121,
           24.04895,
-          24.0722427
+          24.072243
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -4423,15 +3951,15 @@
             0.0007849856,
             0.00057765434,
             0.0003508891,
-            0.000306647038,
-            0.000265458832,
-            0.000191431827,
-            0.000150496213,
-            0.000107366519,
-            7.88213147E-05,
+            0.00030664704,
+            0.00026545883,
+            0.00019143183,
+            0.00015049621,
+            0.00010736652,
+            7.8821315E-05,
             5.827138E-05,
-            4.30801738E-05,
-            2.85129481E-05
+            4.3080174E-05,
+            2.8512948E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -4448,7 +3976,7 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.0800000057,
+          0.080000006,
           0.25,
           0.5,
           0.75,
@@ -4548,15 +4076,15 @@
           },
           "Values": [
             8.308695E-05,
-            0.000116836607,
-            0.000108723383,
+            0.00011683661,
+            0.00010872338,
             9.303658E-05,
             5.427195E-05,
             3.442201E-05,
-            2.18303139E-05,
-            1.18209045E-05,
-            5.83487054E-06,
-            1.92586276E-06
+            2.1830314E-05,
+            1.1820905E-05,
+            5.8348705E-06,
+            1.9258628E-06
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -4573,16 +4101,16 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.465550572,
-          0.980841756,
-          1.53406775,
-          2.08561063,
+          0.46555057,
+          0.98084176,
+          1.5340677,
+          2.0856106,
           4.062361,
-          6.13323641,
+          6.1332364,
           8.250332,
-          12.1207132,
+          12.120713,
           24.21685,
-          48.1841049
+          48.184105
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -4670,14 +4198,14 @@
           },
           "Values": [
             4.649082E-05,
-            8.51783261E-05,
+            8.5178326E-05,
             8.5634405E-05,
             7.5693446E-05,
             4.500999E-05,
-            2.91078268E-05,
-            1.96983128E-05,
+            2.9107827E-05,
+            1.9698313E-05,
             1.2937935E-05,
-            3.86191959E-06
+            3.8619196E-06
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -4695,13 +4223,13 @@
         },
         "Values": [
           0.5463399,
-          0.974497736,
-          1.57549822,
-          2.03524685,
+          0.97449774,
+          1.5754982,
+          2.0352468,
           4.104827,
-          6.12986946,
+          6.1298695,
           8.017157,
-          12.1225252,
+          12.122525,
           24.162344
         ],
         "Dimension": "Time",
@@ -4794,11 +4322,11 @@
               "Values": [
                 0.000235151,
                 0.000235151,
-                0.000200858165,
+                0.00020085817,
                 0.0001420704,
                 6.368673E-05,
-                3.91918365E-05,
-                2.93938756E-05
+                3.9191837E-05,
+                2.9393876E-05
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
@@ -4817,9 +4345,9 @@
             0.00046,
             0.000536,
             0.000429,
-            0.000217000008,
+            0.00021700001,
             0.000107,
-            5.00000024E-05
+            5.0000002E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -4932,13 +4460,13 @@
                 "MolWeight": 296.4
               },
               "Values": [
-                0.000181262236,
-                0.000249847944,
-                0.000205757155,
-                0.000132272442,
+                0.00018126224,
+                0.00024984794,
+                0.00020575715,
+                0.00013227244,
                 7.348469E-05,
-                4.89897939E-05,
-                2.93938756E-05
+                4.8989794E-05,
+                2.9393876E-05
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
@@ -5067,17 +4595,17 @@
             1.850148E-05,
             7.351852E-05,
             3.297757E-05,
-            0.000121624267,
+            0.00012162427,
             9.195234E-05,
             5.769439E-05,
-            4.61283162E-05,
+            4.6128316E-05,
             3.900256E-05,
-            3.06076472E-05,
-            2.27130422E-05,
-            1.65433521E-05,
+            3.0607647E-05,
+            2.2713042E-05,
+            1.6543352E-05,
             9.109912E-06,
-            5.01654677E-06,
-            6.04472461E-06
+            5.0165468E-06,
+            6.0447246E-06
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -5094,19 +4622,19 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          1.25950706,
+          1.2595071,
           1.363413,
-          1.47644567,
-          1.74814546,
+          1.4764457,
+          1.7481455,
           2.940956,
-          3.59949446,
-          4.62310743,
+          3.5994945,
+          4.6231074,
           6.344574,
           8.580656,
-          16.1882477,
-          24.3146667,
-          48.0269623,
-          72.0860748,
+          16.188248,
+          24.314667,
+          48.026962,
+          72.086075,
           96.204155
         ],
         "Dimension": "Time",
@@ -5196,16 +4724,16 @@
                 "NaN",
                 3.539628E-05,
                 3.672815E-05,
-                4.11560541E-05,
-                3.01971122E-05,
-                2.33174269E-05,
-                1.38123514E-05,
-                1.19184788E-05,
-                7.39556253E-06,
-                5.25734549E-06,
-                4.92368054E-06,
+                4.1156054E-05,
+                3.0197112E-05,
+                2.3317427E-05,
+                1.3812351E-05,
+                1.1918479E-05,
+                7.3955625E-06,
+                5.2573455E-06,
+                4.9236805E-06,
                 4.346607E-06,
-                2.29745638E-06
+                2.2974564E-06
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
@@ -5221,18 +4749,18 @@
           },
           "Values": [
             0.0,
-            1.21575931E-05,
-            4.64392542E-05,
+            1.2157593E-05,
+            4.6439254E-05,
             5.982215E-05,
             6.667443E-05,
             6.63398E-05,
-            6.04533379E-05,
+            6.0453338E-05,
             4.933266E-05,
             4.213116E-05,
-            2.77273521E-05,
-            2.05072156E-05,
-            1.68797287E-05,
-            1.42310228E-05,
+            2.7727352E-05,
+            2.0507216E-05,
+            1.6879729E-05,
+            1.4231023E-05,
             1.140163E-05
           ],
           "Dimension": "Concentration (mass)",
@@ -5251,19 +4779,19 @@
         },
         "Values": [
           0.0,
-          0.302729547,
+          0.30272955,
           0.5260546,
           0.7940447,
-          1.06203473,
-          1.50868487,
+          1.0620347,
+          1.5086849,
           2.0,
           3.027295,
-          4.00992537,
+          4.0099254,
           6.019851,
           8.029777,
           9.995037,
-          12.0049629,
-          23.9751854
+          12.004963,
+          23.975185
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -5348,19 +4876,19 @@
                 "MolWeight": 296.4
               },
               "Values": [
-                6.90917068E-06,
-                8.50328252E-06,
-                2.71055214E-05,
-                2.57768334E-05,
-                2.41820981E-05,
-                2.39160472E-05,
+                6.9091707E-06,
+                8.5032825E-06,
+                2.7105521E-05,
+                2.5776833E-05,
+                2.4182098E-05,
+                2.3916047E-05,
                 1.86013E-05,
-                1.67414528E-05,
-                1.43501284E-05,
-                1.14263939E-05,
+                1.6741453E-05,
+                1.4350128E-05,
+                1.1426394E-05,
                 1.248903E-05,
-                1.03637558E-05,
-                6.37738367E-06
+                1.0363756E-05,
+                6.3773837E-06
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
@@ -5375,19 +4903,19 @@
             "MolWeight": 296.4
           },
           "Values": [
-            1.89157417E-05,
-            1.94437816E-05,
+            1.8915742E-05,
+            1.9443782E-05,
             3.9370334E-05,
             7.630096E-05,
-            8.13437146E-05,
+            8.1343715E-05,
             8.02739E-05,
             6.6708184E-05,
-            5.92537981E-05,
-            4.80659728E-05,
-            3.92700967E-05,
+            5.9253798E-05,
+            4.8065973E-05,
+            3.9270097E-05,
             3.366276E-05,
             2.991558E-05,
-            1.80623229E-05
+            1.8062323E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -5502,14 +5030,14 @@
               },
               "Values": [
                 6.975805E-06,
-                2.73830155E-05,
-                3.18690181E-05,
-                3.71621536E-05,
-                3.23990826E-05,
-                2.32703987E-05,
-                2.24128562E-05,
-                1.43281359E-05,
-                1.24651269E-05,
+                2.7383016E-05,
+                3.1869018E-05,
+                3.7162154E-05,
+                3.2399083E-05,
+                2.3270399E-05,
+                2.2412856E-05,
+                1.4328136E-05,
+                1.2465127E-05,
                 1.139513E-05,
                 9.044115E-06,
                 7.6921815E-06
@@ -5527,17 +5055,17 @@
             "MolWeight": 296.4
           },
           "Values": [
-            1.93073847E-05,
-            5.56458835E-05,
+            1.9307385E-05,
+            5.5645884E-05,
             9.726173E-05,
             9.970629E-05,
             9.561554E-05,
-            7.89080441E-05,
+            7.8908044E-05,
             7.077934E-05,
-            5.23922681E-05,
-            4.07719781E-05,
+            5.2392268E-05,
+            4.0771978E-05,
             3.477517E-05,
-            3.06660768E-05,
+            3.0666077E-05,
             2.0639176E-05
           ],
           "Dimension": "Concentration (mass)",
@@ -5648,17 +5176,17 @@
             "MolWeight": 296.4
           },
           "Values": [
-            1.77092788E-05,
-            4.18859672E-05,
+            1.7709279E-05,
+            4.1885967E-05,
             8.332135E-05,
             8.861995E-05,
-            6.53798561E-05,
-            5.62922323E-05,
-            4.29573338E-05,
-            3.86288229E-05,
-            3.18453749E-05,
+            6.5379856E-05,
+            5.6292232E-05,
+            4.2957334E-05,
+            3.8628823E-05,
+            3.1845375E-05,
             2.933619E-05,
-            2.30447658E-05,
+            2.3044766E-05,
             1.741678E-05
           ],
           "Dimension": "Concentration (mass)",
@@ -5774,34 +5302,34 @@
             7.174149E-05,
             6.308969E-05,
             5.146742E-05,
-            4.38487041E-05,
+            4.3848704E-05,
             3.790921E-05,
-            3.39067228E-05,
+            3.3906723E-05,
             3.06794E-05,
-            2.80978365E-05,
-            2.59047847E-05,
+            2.8097837E-05,
+            2.5904785E-05,
             1.9969666E-05,
-            1.73916778E-05,
-            1.52016746E-05,
-            1.21126459E-05,
+            1.7391678E-05,
+            1.5201675E-05,
+            1.2112646E-05,
             9.163499E-06,
-            1.69159812E-05,
+            1.6915981E-05,
             7.444785E-05,
             9.598023E-05,
             0.00010243518,
             8.365885E-05,
             6.949892E-05,
-            6.08774571E-05,
-            5.44093273E-05,
-            4.87072139E-05,
-            4.49685358E-05,
-            4.26659753E-05,
+            6.0877457E-05,
+            5.4409327E-05,
+            4.8707214E-05,
+            4.4968536E-05,
+            4.2665975E-05,
             3.877737E-05,
             3.344082E-05,
-            3.01140844E-05,
-            2.70739547E-05,
+            3.0114084E-05,
+            2.7073955E-05,
             2.228627E-05,
-            1.65850779E-05
+            1.6585078E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -5819,18 +5347,18 @@
         },
         "Values": [
           0.020833334,
-          0.0416666679,
+          0.041666668,
           0.0625,
-          0.0833333358,
+          0.083333336,
           0.104166664,
           0.125,
-          0.145833328,
-          0.166666672,
+          0.14583333,
+          0.16666667,
           0.1875,
-          0.208333328,
+          0.20833333,
           0.25,
-          0.333333343,
-          0.416666657,
+          0.33333334,
+          0.41666666,
           0.5,
           0.6666667,
           1.0,
@@ -5931,16 +5459,16 @@
               },
               "Values": [
                 1.525974E-05,
-                3.08441558E-05,
-                2.68683561E-05,
-                2.04545468E-05,
-                3.21428561E-05,
-                2.95454538E-05,
-                4.74025946E-05,
-                2.59740282E-05,
-                1.91558429E-05,
-                1.94145032E-05,
-                1.59090923E-05
+                3.0844156E-05,
+                2.6868356E-05,
+                2.0454547E-05,
+                3.2142856E-05,
+                2.9545454E-05,
+                4.7402595E-05,
+                2.5974028E-05,
+                1.9155843E-05,
+                1.9414503E-05,
+                1.5909092E-05
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
@@ -5955,17 +5483,17 @@
             "MolWeight": 296.4
           },
           "Values": [
-            4.54545479E-05,
+            4.5454548E-05,
             8.181819E-05,
-            0.000115664108,
-            0.000145129859,
-            0.000125974024,
-            0.000108441563,
+            0.00011566411,
+            0.00014512986,
+            0.00012597402,
+            0.00010844156,
             9.61039E-05,
             7.207792E-05,
             6.883117E-05,
-            6.62997845E-05,
-            4.96753273E-05
+            6.6299785E-05,
+            4.9675327E-05
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
