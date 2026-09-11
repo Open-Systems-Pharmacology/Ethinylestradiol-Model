@@ -1,6 +1,7 @@
 {
   "Name": "Ethinylestradiol-Model",
   "Version": 81,
+  "ApplicationName": "PK-Sim",
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -6265,6 +6266,5 @@
         "Unit": "day(s)"
       }
     }
-  ],
-  "ApplicationName": "PK-Sim"
+  ]
 }
